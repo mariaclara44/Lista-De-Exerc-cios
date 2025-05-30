@@ -8,5 +8,4 @@ let ingredientes = [
     "manteiga"
   ];
   
-  console.log(`Ingredientes como string: ${ingredientes.join(', ')}`);
-  
+  console.log(`Ingredientes como string: ${ingredientes.join('- ')}`);

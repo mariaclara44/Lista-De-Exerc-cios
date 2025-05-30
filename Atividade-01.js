@@ -12,3 +12,6 @@ let promocoes = [
   
 promocoes.push (`SSD 1TB`, `Mesa digializadora`);
 console.log(`Cadastros de novos produtos atualizados: ${promocoes}`);
+
+
+
