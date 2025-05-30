@@ -10,6 +10,6 @@ let producao = [
   
 let elementoRemovido = producao.pop();
 console.log(`Após o pop: ${producao}`);
-console.log(`Elemneto removido: ${elementoRemovido}`);
+console.log(`Elemento removido: ${elementoRemovido}`)
 
 
