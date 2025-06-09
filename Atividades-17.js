@@ -15,4 +15,4 @@ let usuariosSistemaB = [
 
 console.log(`A lista combinada: ${usuariosSistemaA.concat(usuariosSistemaB)}`);
 
-console.log(`Playlist combinada: ${usuariosSistemaA.concat(usuariosSistemaB).join(', ')}`);
+console.log(`A lista combinada: ${usuariosSistemaA.concat(usuariosSistemaB).join(', ')}`);
